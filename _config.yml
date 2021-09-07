@@ -1,0 +1,13 @@
+title: egg
+baseurl: 
+url: "https://trolly.club/"
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+exclude:
+ - Gemfile
+ - Gemfile.lock
+
+permalink: pretty
